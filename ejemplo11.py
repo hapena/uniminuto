@@ -1,6 +1,0 @@
-print("hola mundo")
-print("hola mundo333")
-print("hola mundo3333")
-print("hola mundo333")
-print("hola mundo333")
-print("hola mundo3333")
